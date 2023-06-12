@@ -15,7 +15,7 @@ Requisitos para utização da API
 
 3 - Pelo postman
 
-Para atualizar o banco de dados com o pipedrive atravé do postman de um         <h4>POST</h4> em 
+Para atualizar o banco de dados com o pipedrive através do postman de um         <h4>POST</h4> em 
     
     localhost:8080/api/v1/deals/orders
     
